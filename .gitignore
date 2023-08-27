@@ -161,3 +161,4 @@ cython_debug/
 artifacts/
 scores.json
 dvc.lock
+inputImage.jpg
